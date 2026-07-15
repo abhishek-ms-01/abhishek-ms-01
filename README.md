@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Abhishek M S 👋</h1>
-<h3 align="center">Full-Stack Developer | Information Science Undergrad | Building AI-powered & scalable web products</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0B486B&height=180&section=header&text=Abhishek%20M%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI-Powered%20Web%20Apps&descAlignY=65&descSize=16" width="100%"/>
+
+<h3 align="center">Information Science Undergrad | Building scalable, AI-powered web products</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);React.js+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Web+Apps;Turning+Ideas+Into+Products" alt="Typing SVG" />
